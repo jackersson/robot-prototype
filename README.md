@@ -5,6 +5,7 @@
 
 
 ### Math 
+
 #### Revolution Per Minute (RPM)
 <img src="https://render.githubusercontent.com/render/math?math=RPM = \frac{Pulses}{PPR * t} ">
 
@@ -22,3 +23,6 @@
 <img src="https://render.githubusercontent.com/render/math?math=Position_{wheel} = \frac{position_{encoder}}{PPR} * 360 ">
 
 - <img src="https://render.githubusercontent.com/render/math?math=PPR"> - pulses per revolution
+
+#### References
+- [Convert RPM to m/s](https://www.youtube.com/watch?v=qK86kDlBq_8)
