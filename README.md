@@ -16,8 +16,13 @@
 #### Revolution Per Second (RPS)
 <img src="https://render.githubusercontent.com/render/math?math=RPS = \frac{RPM}{60} ">
 
+#### Angular Velocity (rad/s)
+<img src="https://render.githubusercontent.com/render/math?math=V_{angular} = 2 * \pi * RPS">
+
 #### Linear Velocity (m/s)
-<img src="https://render.githubusercontent.com/render/math?math=V = 2 * \pi * r * RPS">
+<img src="https://render.githubusercontent.com/render/math?math=V_{linear} = 2 * \pi * r * RPS">
+<img src="https://render.githubusercontent.com/render/math?math=V_{linear} = V_{angular} * r">
+
 
 #### Wheel Position (degrees)
 <img src="https://render.githubusercontent.com/render/math?math=Position_{wheel} = \frac{position_{encoder}}{PPR} * 360 ">
